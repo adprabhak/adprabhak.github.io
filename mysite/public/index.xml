@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adarsh Prabhakaran</title>
-    <link>https://adprabhak.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Adarsh Prabhakaran</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adprabhak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://adprabhak.github.io/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://adprabhak.github.io/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>Please find my updated Curriculum Vitae here: CV</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://adprabhak.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://adprabhak.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>I am Adarsh, a Research Fellow in the Department of Political Sciences at University College London. My work involves designing and developing agent-based models for the Human Rights Nudge Project, collaborating across law, social sciences, behavioral sciences, and informatics. The project focuses on understanding mechanisms within the international court of human rights, encompassing compliance, decision-making systems, vulnerabilities, and potential remedies.&#xA;Previously, I was a doctoral student (thesis submitted) at the University of Edinburgh&amp;rsquo;s Artificial Intelligence and its Applications Institute, School of Informatics.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://adprabhak.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://adprabhak.github.io/contact/</guid>
-      <description>Please feel free to reach out to me using the following contact information:&#xA;Email: A.prabhakaran@ucl.ac.uk | adprabhak@gmail.com&#xA;I&amp;rsquo;ll be happy to answer any queries or discuss potential collaborations.</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Please feel free to reach out to me using the following contact information:&#xA;Email: A.prabhakaran@ucl.ac.uk | adprabhak@gmail.com&#xA;I&amp;rsquo;ll be happy to answer any queries or discuss potential collaborations. </description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://adprabhak.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://adprabhak.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>You can also browse my Google Scholar profile.&#xA;Prabhakaran, A., Restocchi, V., &amp;amp; Goddard, B. D. (2023). Improving tobacco social contagion models using agent-based simulations on networks. Applied Network Science, 8(1), 54. PDF Prabhakaran, A., &amp;amp; Sinha, S. (2022, November). Infection Spread in Populations: An Agent-Based Model. In International Symposium on Mathematical and Computational Biology (pp. 17-27). Cham: Springer Nature Switzerland. PDF Prabhakaran, A., Restocchi, V., &amp;amp; Goddard, B. D. (2022, July).</description>
     </item>
   </channel>
