@@ -6,10 +6,8 @@ author = "Hugo Authors"
 +++
 
 
-
-
 Please feel free to reach out to me using the following contact information:
 
-Email: adprabhak@gmail.com | A.Prabhakaran@sms.ed.ac.uk
+Email: A.prabhakaran@ucl.ac.uk | adprabhak@gmail.com
 
 I'll be happy to answer any queries or discuss potential collaborations.
