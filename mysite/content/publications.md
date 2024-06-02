@@ -14,8 +14,8 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 
 
 ## Thesis
-1. **Prabhakaran A.** (2024). Applications of Agent-based Models in Tobacco Control.
-2. **Prabhakaran A.** (2019). Studying Collective Behaviour Using Agent-Based Models. [PDF](http://210.212.36.82:8080/jspui/handle/123456789/1144)
+1. **Prabhakaran A.** (2024). Applications of Agent-based Models in Tobacco Control. PhD Thesis.
+2. **Prabhakaran A.** (2019). Studying Collective Behaviour Using Agent-Based Models. MS Thesis. [PDF](http://210.212.36.82:8080/jspui/handle/123456789/1144)
 
 
 ## In Preparation
