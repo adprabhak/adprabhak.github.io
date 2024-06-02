@@ -10,4 +10,4 @@ Please feel free to reach out to me using the following contact information:
 
 Email: A.prabhakaran@ucl.ac.uk | adprabhak@gmail.com
 
-I'll be happy to answer any queries or discuss potential collaborations.
+I'll be happy to answer any queries or discuss potential collaborations. 
